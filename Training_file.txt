@@ -1,1 +1,2 @@
 This is sample read me file
+It contains just some random text
